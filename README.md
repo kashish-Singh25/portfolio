@@ -114,3 +114,56 @@ Text preprocessing · TF-IDF · ML classification
 
 </div>
 
+---
+
+## ⚡ CURRENTLY EXPLORING
+
+<div align="center">
+
+| 🧠 Artificial Intelligence | 🌐 Full Stack Development | 🎨 Creative UI |
+|:---:|:---:|:---:|
+| Generative AI & LLMs | React & Node.js | Three.js & 3D Web |
+| Machine Learning | REST APIs | Interactive Design |
+
+</div>
+
+## ◈ MY DEVELOPER MINDSET
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/THINK-BUILD-0D1117?style=for-the-badge&labelColor=0D1117&color=B4F36B" />
+<img src="https://img.shields.io/badge/LEARN-EVOLVE-0D1117?style=for-the-badge&labelColor=0D1117&color=B4F36B" />
+<img src="https://img.shields.io/badge/CREATE-INNOVATE-0D1117?style=for-the-badge&labelColor=0D1117&color=B4F36B" />
+
+<br/><br/>
+
+*"Great things are built one line of code at a time."*
+
+</div>
+
+## ✧ LET'S BUILD SOMETHING TOGETHER
+
+<div align="center">
+
+<a href="https://github.com/kashish-Singh25">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/kashish-Singh25/portfolio">
+<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-B4F36B?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kashish-Singh25&style=for-the-badge&color=9BE564&label=REPOSITORY+VIEWS" />
+
+<br/><br/>
+
+### `</>` CODE · CREATE · REPEAT
+
+**Thanks for visiting my portfolio!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B4F36B,100:0D1117&height=100&section=footer" />
+
+</div>
+
