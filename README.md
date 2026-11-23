@@ -110,4 +110,7 @@ Text preprocessing · TF-IDF · ML classification
 
 <div align="center">
 
-<img width="95%"
+![Kashish's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashish-Singh25&bg_color=0d1117&color=B4F36B&line=79C83D&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
