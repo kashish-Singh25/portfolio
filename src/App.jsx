@@ -5,6 +5,8 @@ import Journey from "./Journey";
 import Cursor from "./Cursor";
 import TechStack from "./TechStack";
 import Loader from "./Loader";
+import InteractiveTerminal from "./Terminal";
+import PortfolioOS from "./PortfolioOS";
 import {
   Mail,
   ArrowUpRight,
@@ -439,6 +441,9 @@ function App() {
   </div>
 </section>
 
+<InteractiveTerminal />
+<PortfolioOS />
+
 <Journey />
 
 
@@ -452,7 +457,7 @@ function App() {
     transition={{ duration: 0.8 }}
   >
     <div className="contact-top">
-      <span className="eyebrow">05 / LET'S CONNECT</span>
+      <span className="eyebrow">06 / LET'S CONNECT</span>
       <span className="contact-status">
         <span className="status-dot" /> AVAILABLE FOR OPPORTUNITIES
       </span>

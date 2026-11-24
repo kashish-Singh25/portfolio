@@ -55,15 +55,26 @@ const milestones = [
     icon: Trophy,
     highlight: "TOP 10 ACHIEVEMENT",
   },
+  
   {
-    year: "EXPERIENCE",
-    category: "INTERNSHIPS & LEARNING",
-    title: "Growing Through Experience",
+    year: "FEB – MAR 2026",
+    category: "2ND YEAR · INTERNSHIP",
+    title: "Computer Vision & Deep Learning Intern",
     description:
-      "Exploring professional development through Generative AI, Machine Learning and Web Development internships, along with a Generative AI course.",
+      "Anveshan Foundation, IGDTUW, Delhi. Built and deployed deep learning and computer vision models for real-world problem-solving. Preprocessed 1000+ data points and applied data analysis techniques to improve model performance and accuracy.",
     icon: BriefcaseBusiness,
-    highlight: "LEARN · BUILD · GROW",
+    highlight: "ANVESHAN FOUNDATION",
   },
+  {
+    year: "JUN 2026 – PRESENT",
+    category: "3RD YEAR · INTERNSHIP",
+    title: "Gen AI & Agentic AI Intern",
+    description:
+      "Developing LLM applications using FastAPI, LangChain, Mistral AI and ChromaDB. Building AI agents using prompt engineering, tool calling and GitHub integration.",
+    icon: BriefcaseBusiness,
+    highlight: "GENERATIVE AI · AGENTIC AI",
+  },
+
   {
     year: "PRESENT",
     category: "THE JOURNEY CONTINUES",
