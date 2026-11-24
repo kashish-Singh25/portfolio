@@ -2,6 +2,8 @@
 import { motion } from "framer-motion";
 import Scene from "./Scene";
 import Journey from "./Journey";
+import Cursor from "./Cursor";
+import TechStack from "./TechStack";
 import {
   Mail,
   ArrowUpRight,
@@ -124,6 +126,7 @@ const skills = [
 function App() {
   return (
     <div className="portfolio">
+      <Cursor />
       <nav className="navbar">
         <a className="logo" href="#home">K<span>.</span></a>
         <div className="nav-links">
@@ -246,6 +249,7 @@ function App() {
 
           <a href="#about" className="scroll-indicator"><ChevronDown size={18}/> SCROLL TO EXPLORE</a>
         </section>
+        <TechStack />
 
         
 <section className="section about-section" id="about">
@@ -436,16 +440,61 @@ function App() {
 <Journey />
 
 
-        <section className="section contact-section" id="contact">
-          <p className="eyebrow">04 / GET IN TOUCH</p>
-          <h2>Have an idea?<br/><span>Let's build it.</span></h2>
-          <p>I'm always interested in connecting, learning and collaborating on exciting projects.</p>
-          <a className="primary-button" href="mailto:your-email@example.com">Say hello <Mail size={17}/></a>
-          <div className="contact-socials">
-            <a href="https://github.com/kashish-Singh25" target="_blank" rel="noreferrer">GitHub <ArrowUpRight size={14}/></a>
-            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn <ArrowUpRight size={14}/></a>
-          </div>
-        </section>
+        
+<section className="section contact-section" id="contact">
+  <motion.div
+    className="contact-container"
+    initial={{ opacity: 0, y: 40 }}
+    whileInView={{ opacity: 1, y: 0 }}
+    viewport={{ once: true }}
+    transition={{ duration: 0.8 }}
+  >
+    <div className="contact-top">
+      <span className="eyebrow">05 / LET'S CONNECT</span>
+      <span className="contact-status">
+        <span className="status-dot" /> AVAILABLE FOR OPPORTUNITIES
+      </span>
+    </div>
+
+    <h2>
+      Have a vision?
+      <br />
+      <span>Let's make it real.</span>
+    </h2>
+
+    <p className="contact-description">
+      Have an interesting idea, an opportunity or just want to connect?
+      I'd love to hear from you. Let's create something meaningful together.
+    </p>
+
+    <a
+      className="contact-main-button"
+      href="mailto:kashish23singhhh@gmail.com"
+    >
+      Let's talk
+      <ArrowUpRight size={20} />
+    </a>
+
+    <div className="contact-divider" />
+
+    <div className="contact-bottom">
+      <div>
+        <span className="contact-label">CONNECT WITH ME</span>
+        <div className="contact-socials">
+          <a href="https://github.com/kashish-Singh25" target="_blank" rel="noreferrer">
+            <FaGithub /> GitHub <ArrowUpRight size={14} />
+          </a>
+          <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+            <FaLinkedin /> LinkedIn <ArrowUpRight size={14} />
+          </a>
+        </div>
+      </div>
+
+      <span className="contact-location">INDIA · OPEN TO CONNECT</span>
+    </div>
+  </motion.div>
+</section>
+
       </main>
 
       <footer>

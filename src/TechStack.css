@@ -1,0 +1,100 @@
+
+/* ANIMATED TECH STACK */
+
+.tech-stack-section {
+    position: relative;
+    padding: 110px 0;
+    overflow: hidden;
+    text-align: center;
+    background:
+      radial-gradient(
+        ellipse at center,
+        rgba(132, 204, 22, 0.07),
+        transparent 65%
+      );
+  }
+  
+  .tech-stack-section h2 {
+    margin: 20px 0;
+    font-size: clamp(34px, 5vw, 58px);
+    color: #f3f5ef;
+    letter-spacing: -2px;
+  }
+  
+  .tech-stack-section h2 span {
+    color: #b4f36b;
+  }
+  
+  .tech-stack-intro {
+    color: #929c8e;
+    font-size: 14px;
+    margin-bottom: 55px;
+  }
+  
+  .tech-marquee-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .tech-marquee {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    mask-image: linear-gradient(
+      to right,
+      transparent,
+      black 10%,
+      black 90%,
+      transparent
+    );
+  }
+  
+  .tech-track {
+    display: flex;
+    width: max-content;
+    gap: 18px;
+  }
+  
+  .tech-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 17px 25px;
+    min-width: max-content;
+    border: 1px solid rgba(180, 243, 107, 0.16);
+    border-radius: 10px;
+    background: rgba(18, 25, 17, 0.85);
+    color: #dce5d5;
+    font-size: 14px;
+    transition: 0.3s ease;
+  }
+  
+  .tech-item:hover {
+    border-color: #b4f36b;
+    color: #b4f36b;
+    background: rgba(180, 243, 107, 0.08);
+    transform: translateY(-4px);
+  }
+  
+  .tech-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #b4f36b;
+    box-shadow: 0 0 10px #b4f36b;
+  }
+  
+  @media (max-width: 600px) {
+    .tech-stack-section {
+      padding: 75px 0;
+    }
+  
+    .tech-item {
+      padding: 14px 18px;
+      font-size: 12px;
+    }
+  }
+  
