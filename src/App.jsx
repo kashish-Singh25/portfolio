@@ -4,6 +4,7 @@ import Scene from "./Scene";
 import Journey from "./Journey";
 import Cursor from "./Cursor";
 import TechStack from "./TechStack";
+import Loader from "./Loader";
 import {
   Mail,
   ArrowUpRight,
@@ -126,6 +127,7 @@ const skills = [
 function App() {
   return (
     <div className="portfolio">
+      <Loader />
       <Cursor />
       <nav className="navbar">
         <a className="logo" href="#home">K<span>.</span></a>
