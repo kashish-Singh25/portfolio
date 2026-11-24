@@ -1,6 +1,7 @@
 
 import { motion } from "framer-motion";
 import Scene from "./Scene";
+import Journey from "./Journey";
 import {
   Mail,
   ArrowUpRight,
@@ -130,6 +131,7 @@ function App() {
           <a href="#skills">Skills</a>
           <a href="#projects">Projects</a>
           <a href="#contact">Contact</a>
+          <a href="#journey">Journey</a>
         </div>
         <a className="nav-button" href="#contact">Let's Talk <ArrowUpRight size={16}/></a>
       </nav>
@@ -430,6 +432,8 @@ function App() {
     ))}
   </div>
 </section>
+
+<Journey />
 
 
         <section className="section contact-section" id="contact">
