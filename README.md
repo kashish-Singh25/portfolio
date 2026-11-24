@@ -1,30 +1,169 @@
-# My Developer Portfolio
+# <div align="center">KASHISH SINGH</div>
 
-A personal developer portfolio showcasing my projects, technical skills, and journey as a developer.
+<div align="center">
 
-## Built With
-- React.js
-- Vite
-- JavaScript
-- Three.js
-- React Three Fiber
-- Framer Motion
-- CSS
+### FULL STACK DEVELOPER | AI/ML ENTHUSIAST
 
-## Features
-- Interactive 3D hero section
-- Responsive dark-themed design
-- About and skills sections
-- Project showcase with live demos
-- Social and contact links
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=B4F36B&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Exploring+AI+%26+Machine+Learning;Creating+Interactive+Web+Experiences;Always+Learning.+Always+Building." />
 
-## Run Locally
+<br/>
 
-```bash
-npm install
-npm run dev
-```
+[![Portfolio](https://img.shields.io/badge/EXPLORE%20PORTFOLIO-B4F36B?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/kashish-Singh25/portfolio)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/kashish-Singh25)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+</div>
 
 ---
 
-Built with curiosity and creativity.
+## ◈ ABOUT THE PROJECT
+
+A modern, interactive personal portfolio built to showcase my development journey, technical skills, and projects.
+
+Designed with a minimal dark aesthetic, neon-green accents, immersive 3D visuals, and smooth animations.
+
+## ⬡ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,vite,threejs,css,html,git,github&theme=dark" />
+
+<br/><br/>
+
+**Animation & 3D**
+
+`Three.js` · `React Three Fiber` · `Framer Motion`
+
+</div>
+
+## ✦ WHAT'S INSIDE
+
+| Section | Highlights |
+|:--|:--|
+| 3D Hero | Interactive 3D visuals and code-inspired design |
+| About | Developer introduction and interests |
+| Skills | Categorized technical skills |
+| Projects | Project showcase with demo links |
+| Responsive UI | Desktop, tablet and mobile support |
+| Animations | Smooth transitions and motion effects |
+
+## ◈ FEATURED PROJECTS
+
+<div align="center">
+
+### 01 — SkillSync AI
+
+**AI-Powered Recruitment Platform**
+
+Resume analysis · Semantic job matching · Role-based dashboards
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-B4F36B?style=for-the-badge&logo=vercel&logoColor=black)](https://skillsync-ai-2-nfh0.onrender.com/)
+[![Source](https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github)](https://github.com/kashish-Singh25/skillsync-ai)
+
+---
+
+### 02 — Helios Lab
+
+**Interactive Virtual IoT Laboratory**
+
+Virtual IoT workspace · Component exploration · Simulation experience
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-B4F36B?style=for-the-badge&logo=vercel&logoColor=black)](https://helioslab-five.vercel.app/)
+
+---
+
+### 03 — RestroSphere
+
+**Restaurant-Focused Digital Platform**
+
+A digital platform built around restaurant-related workflows and user experience.
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-B4F36B?style=for-the-badge&logo=vercel&logoColor=black)](https://restrosphere-1.onrender.com/)
+
+---
+
+### 04 — Fake News Detection
+
+**Machine Learning + NLP**
+
+Text preprocessing · TF-IDF · ML classification
+
+[![Source](https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github)](https://github.com/kashish-Singh25/Fake-News-Detection)
+
+</div>
+
+## ⬡ GITHUB STATISTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kashish-Singh25&show_icons=true&theme=transparent&title_color=B4F36B&icon_color=B4F36B&text_color=C9D1D9&border_color=30363D&hide_border=false" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-Singh25&layout=compact&theme=transparent&title_color=B4F36B&text_color=C9D1D9&border_color=30363D" />
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=kashish-Singh25&theme=dark&background=00000000&ring=B4F36B&fire=B4F36B&currStreakLabel=B4F36B&sideLabels=C9D1D9&dates=8B949E&hide_border=true" />
+
+</div>
+
+## ◈ CONTRIBUTION GRAPH
+
+<div align="center">
+
+![Kashish's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashish-Singh25&bg_color=0d1117&color=B4F36B&line=79C83D&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+---
+
+## ⚡ CURRENTLY EXPLORING
+
+<div align="center">
+
+| 🧠 Artificial Intelligence | 🌐 Full Stack Development | 🎨 Creative UI |
+|:---:|:---:|:---:|
+| Generative AI & LLMs | React & Node.js | Three.js & 3D Web |
+| Machine Learning | REST APIs | Interactive Design |
+
+</div>
+
+## ◈ MY DEVELOPER MINDSET
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/THINK-BUILD-0D1117?style=for-the-badge&labelColor=0D1117&color=B4F36B" />
+<img src="https://img.shields.io/badge/LEARN-EVOLVE-0D1117?style=for-the-badge&labelColor=0D1117&color=B4F36B" />
+<img src="https://img.shields.io/badge/CREATE-INNOVATE-0D1117?style=for-the-badge&labelColor=0D1117&color=B4F36B" />
+
+<br/><br/>
+
+*"Great things are built one line of code at a time."*
+
+</div>
+
+## ✧ LET'S BUILD SOMETHING TOGETHER
+
+<div align="center">
+
+<a href="https://github.com/kashish-Singh25">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/kashish-Singh25/portfolio">
+<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-B4F36B?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kashish-Singh25&style=for-the-badge&color=9BE564&label=REPOSITORY+VIEWS" />
+
+<br/><br/>
+
+### `</>` CODE · CREATE · REPEAT
+
+**Thanks for visiting my portfolio!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B4F36B,100:0D1117&height=100&section=footer" />
+
+</div>
+
